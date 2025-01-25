@@ -8,3 +8,5 @@ Create bucket - https://awscli.amazonaws.com/v2/documentation/api/latest/referen
 Head bucket - https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-bucket.html
 
 #### Script 3
+Create instance - https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/run-instances.html
+Describe instance - https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instances.html
